@@ -1,0 +1,29 @@
+
+.stopwatch {
+  
+  height: 100vh;
+	width: 200px;
+	background-color: #ddd;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.time {
+	font-size: 48px;
+	font-weight: bold;
+}
+
+button {
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	margin: 10px;
+}
+
+button:hover {
+	background-color: #3e8e41;
+}
